@@ -1,0 +1,29 @@
+[{
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo3.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo3.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo3.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo5.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo5.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo5.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo6.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo6.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo6.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\File2.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\File2.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\File2.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo4.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo4.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo4.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\main.c",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\main.c\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo7.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo7.cpp\" -o \"C:\\Users\\pablo\\Documents\\Netanyahu's Files\\Ejemplos2\\Ejemplo7.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

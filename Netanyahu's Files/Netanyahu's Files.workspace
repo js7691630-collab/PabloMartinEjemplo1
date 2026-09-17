@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Netanyahu's Files" Database="" Version="10000">
+  <Project Name="Ejemplos2" Path="Ejemplos2/Ejemplos2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="FileNº1" ConfigName="Debug"/>
+      <Project Name="FileNº2" ConfigName="Debug"/>
+      <Project Name="FileNº3" ConfigName="Debug"/>
+      <Project Name="FileNº4" ConfigName="Debug"/>
+      <Project Name="FileNº5" ConfigName="Debug"/>
+      <Project Name="FileNº6" ConfigName="Debug"/>
+      <Project Name="FileNº7" ConfigName="Debug"/>
+      <Project Name="FileNº8" ConfigName="Debug"/>
+      <Project Name="Ejemplos2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="FileNº1" ConfigName="Release"/>
+      <Project Name="FileNº2" ConfigName="Release"/>
+      <Project Name="FileNº3" ConfigName="Release"/>
+      <Project Name="FileNº4" ConfigName="Release"/>
+      <Project Name="FileNº5" ConfigName="Release"/>
+      <Project Name="FileNº6" ConfigName="Release"/>
+      <Project Name="FileNº7" ConfigName="Release"/>
+      <Project Name="FileNº8" ConfigName="Release"/>
+      <Project Name="Ejemplos2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
